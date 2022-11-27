@@ -24,7 +24,7 @@
          //Adicionar archivos al inicio del array 
          let newLength = fruits.unshift("banana");
 
-         //quitar datos deicio de array
+         //quitar datos del incio de array
          let unLength = fruits.shift("banana");
 
 

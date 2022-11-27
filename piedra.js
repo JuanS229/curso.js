@@ -40,3 +40,10 @@ switch (true) {
     }
 }
 
+// otras opciones de ciclos cuando solo hay dos casos podibles 
+
+let colors= ["green","red","blue"]
+
+function verfyColor(colors) {
+    return (colors[0]=== 'green' ? true : false)
+}
